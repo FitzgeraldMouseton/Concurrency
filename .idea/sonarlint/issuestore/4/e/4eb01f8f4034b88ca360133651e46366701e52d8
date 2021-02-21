@@ -1,0 +1,9 @@
+
+c
+java:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8éúŞ«Ì.
+W
+java:S22742":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ8éúŞ«Ì.
+W
+java:S2274B":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ8éúŞ«Ì.
+c
+java:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8éúŞ«Ì.
